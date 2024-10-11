@@ -12,8 +12,6 @@ const handleSubmit = () => {
     }
   
 }
-  
-
 const age = [12, 51, 34, 23, 56, 39];
 localStorage.setItem("Array of Age", JSON.stringify(age)); // Array Need to Stringify
 
